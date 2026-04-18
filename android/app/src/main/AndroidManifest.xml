@@ -19,7 +19,7 @@
             android:name="io.flutter.embedding.android.EnableImpeller"
             android:value="false" />
         <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCuagrtFKC4Zp04lLrHS9pGP-7gnS4coGk"/>
+            android:value="API Key"/>
         <activity
             android:name=".MainActivity"
             android:exported="true"
