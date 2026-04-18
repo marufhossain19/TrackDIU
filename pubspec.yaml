@@ -1,0 +1,62 @@
+name: diu_smartbus
+description: "TrackDIU — Campus Transit Tracker"
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Maps
+  google_maps_flutter: ^2.5.3
+
+  # Supabase
+  supabase_flutter: ^2.3.4
+
+  # State Management
+  flutter_riverpod: ^2.5.1
+
+  # Location
+  geolocator: ^12.0.0
+  permission_handler: ^11.3.1
+  flutter_polyline_points: ^2.1.0
+
+  # Animations
+  animations: ^2.0.11
+  lottie: ^3.1.2
+
+  # Fonts & UI
+  google_fonts: ^6.2.1
+  intl: ^0.19.0
+
+  # Local Storage (no code gen needed for basic boxes)
+  hive_flutter: ^1.1.0
+
+  # Misc
+  cupertino_icons: ^1.0.8
+  url_launcher: ^6.3.1
+  cached_network_image: ^3.4.1
+  http: ^1.2.2
+  path_provider: ^2.1.5
+  geocoding: ^4.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/bus.png"
+  min_sdk_android: 21
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
