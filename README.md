@@ -9,7 +9,7 @@
 
 ## 📋 Overview
 
-**TrackDIU** is a comprehensive campus transit tracking solution designed for Daffodil International University (DIU). Built with Flutter and powered by Supabase and Google Maps, this app provides students, staff, and faculty with real-time bus location tracking, schedules, and transit information.
+**TrackDIU** is a comprehensive campus transit tracking solution designed for Daffodil International University (DIU). Built with Flutter and powered by Supabase and Google Maps, this app provides[...]
 
 ---
 
@@ -34,8 +34,6 @@
 
 ## 🖼️ App Flow & Screenshots
 
-<details>
-<summary><strong>📸 View Screenshots</strong></summary>
 
 | Screenshot 1 | Screenshot 2 |
 |-------------|-------------|
@@ -65,7 +63,6 @@
 |-------------|-------------|
 | ![1782112008471](assets/images/1782112008471.jpg) | ![dark mode 1782112009237](assets/images/dark%20mode%201782112009237.jpg) |
 
-</details>
 
 ---
 
