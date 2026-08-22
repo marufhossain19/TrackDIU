@@ -37,15 +37,51 @@ To run this application locally, ensure you have Flutter strictly installed.
 
 ---
 
-## 📸 Screenshots / Preview
+## 📸 Screenshots / Preview (All images from assets/images)
 
-Here are a couple of preview images from the app (assets are included in the repo under `assets/images/`).
+I've included a preview of every image file found in `assets/images/` so visitors can see the app visuals at a glance.
 
-![App Header](assets/images/diu_header.png)
+<!-- Gallery: each image uses a relative path so GitHub will render them if the files exist in this branch -->
 
-![Bus Icon](assets/images/bus.png)
+### App images
 
-> If the images do not display on GitHub, make sure the files exist at `assets/images/diu_header.png` and `assets/images/bus.png` in this repository branch.
+![1782112003704](assets/images/1782112003704.jpg)
+
+![1782112003859](assets/images/1782112003859.jpg)
+
+![1782112003991](assets/images/1782112003991.jpg)
+
+![1782112004147](assets/images/1782112004147.jpg)
+
+![1782112005718](assets/images/1782112005718.jpg)
+
+![1782112005770](assets/images/1782112005770.jpg)
+
+![1782112005853](assets/images/1782112005853.jpg)
+
+![1782112005996](assets/images/1782112005996.jpg)
+
+![1782112007052](assets/images/1782112007052.jpg)
+
+![1782112007714](assets/images/1782112007714.jpg)
+
+![1782112007911](assets/images/1782112007911.jpg)
+
+![1782112007973](assets/images/1782112007973.jpg)
+
+![1782112008471](assets/images/1782112008471.jpg)
+
+![dark mode 1782112009237](assets/images/dark%20mode%201782112009237.jpg)
+
+![DIU](assets/images/DIU.png)
+
+![bus](assets/images/bus.png)
+
+![diu_header](assets/images/diu_header.png)
+
+> Note: `assets/images/Transport Schedule DIU.pdf` is a PDF (not an image) and is available in the same folder — I did not embed it as an image but it's included in the repo.
+
+If any images fail to render on GitHub, ensure the files exist at the paths above in this branch; the README uses relative paths.
 
 ---
 
