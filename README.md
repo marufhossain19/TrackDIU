@@ -1,6 +1,6 @@
 # 🚌 TrackDIU — Campus Transit Tracker
 
-Welcome to **TrackDIU**, your ultimate companion for real-time campus transit tracking! 📍✨ This application helps students and faculty effortlessly locate campus buses securely, accurately, and in real-time.
+Welcome to **TrackDIU**, your ultimate companion for real-time campus transit tracking! 📍✨ This application helps students and faculty effortlessly locate campus buses securely, accurately, and with a delightful UI.
 
 ---
 
@@ -9,17 +9,9 @@ Welcome to **TrackDIU**, your ultimate companion for real-time campus transit tr
 - **🗺️ Real-Time Tracking:** Leveraging Google Maps and live GPS tracking (`geolocator`), you can monitor the bus's live location on the interactive map.
 - **☁️ Supabase Backend:** Secure database management and seamless real-time syncing.
 - **⚡ Supercharged State Management:** Powered by `flutter_riverpod` for a smooth, lag-free experience.
-- **🗃️ Local Caching:** Built with `hive_flutter` for lighting-fast data retrieval. 
+- **🗃️ Local Caching:** Built with `hive_flutter` for lighting-fast data retrieval.
 - **🎨 Beautiful UI & Animations:** Fluid interfaces and charming animations via `lottie` and `animations`, paired with `google_fonts` for an exquisite look.
 - **🛣️ Route Details:** Uses `flutter_polyline_points` for accurate visual representations of transit routes to campus.
-
-## 🛠️ Tech Stack & Dependencies
-
-- **Framework:** Flutter (Dart)
-- **Backend:** Supabase (`supabase_flutter`)
-- **State Management:** Riverpod (`flutter_riverpod`)
-- **Mapping & Location:** Google Maps (`google_maps_flutter`), Geolocator, Geocoding
-- **Storage:** Hive (`hive_flutter`)
 
 ---
 
@@ -45,12 +37,24 @@ To run this application locally, ensure you have Flutter strictly installed.
 
 ---
 
+## 📸 Screenshots / Preview
+
+Here are a couple of preview images from the app (assets are included in the repo under `assets/images/`).
+
+![App Header](assets/images/diu_header.png)
+
+![Bus Icon](assets/images/bus.png)
+
+> If the images do not display on GitHub, make sure the files exist at `assets/images/diu_header.png` and `assets/images/bus.png` in this repository branch.
+
+---
+
 ## 📱 Installation Guide (For Android Users)
 
 Want to install the app directly via APK onto your Android device? Follow these quick and easy steps! 🚀
 
 1. **Download the APK file** point to the `.apk` file that is downloaded.
-2. ⚠️ **Enable Unknown Sources:** Since the app is not downloaded from the Google Play Store, you need to grant your device permission to install it. 
+2. ⚠️ **Enable Unknown Sources:** Since the app is not downloaded from the Google Play Store, you need to grant your device permission to install it.
    - Open your phone's **Settings ⚙️** > **Apps** (or **Security** / **Privacy** depending on the device).
    - Tap on **Special app access**.
    - Find the **Install Unknown Apps** button.
@@ -62,6 +66,6 @@ Want to install the app directly via APK onto your Android device? Follow these 
 
 ## 🤝 Contributing & Feedback
 
-Contributions, bug reports, and feature requests are gracefully accepted! Let's make catching the bus easier for everyone. 
+Contributions, bug reports, and feature requests are gracefully accepted! Let's make catching the bus easier for everyone.
 
 **Made with ❤️ for seamless campus commutes! 🎓🚌**
