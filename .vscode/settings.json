@@ -1,0 +1,12 @@
+{
+    "cmake.sourceDirectory": "D:/TrackDIU - Copy/MAD - Copy/diu_smartbus/windows",
+    "java.import.gradle.java.home": "C:\\Program Files\\Microsoft\\jdk-17.0.15.6-hotspot",
+    "java.jdt.ls.java.home": "C:\\Program Files\\Microsoft\\jdk-17.0.15.6-hotspot",
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-17",
+            "path": "C:\\Program Files\\Microsoft\\jdk-17.0.15.6-hotspot",
+            "default": true
+        }
+    ]
+}
